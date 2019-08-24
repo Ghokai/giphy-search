@@ -60,8 +60,6 @@ export const fetchImages = async (
       });
     }
   } catch (error) {
-    console.log(error);
-    console.log(error.response);
     dispatch({ type: FETCH_IMAGES_ERROR_ACTION, payload: "Error!" });
   }
 };
