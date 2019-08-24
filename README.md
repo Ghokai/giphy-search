@@ -1,5 +1,5 @@
 **Giphy Search App**
-This react application built with create-react-app and typescript
+This react application built with create-react-app with typescript
 
     //for run this app, you can type
     npm run start
